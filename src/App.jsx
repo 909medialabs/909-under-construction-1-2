@@ -20,7 +20,7 @@ function App() {
         <img src={logo909} className='big-logo'/>
         <div className='text-block'>
           <h2>WHO WE ARE</h2>
-          <p>As a multimedia content/event design company, 909 Media Labs develops and manages NFTs/events, provides marketing solutions, and assists artists and brands. <br /> <br /> That’s why we create dynamic, high impact animation for artists and digital media from concept to final execution, pushing in every project the limits of our own creativity.</p>
+          <p>We are a full-service creative agency that brings together world-class 3D modeling and animation, NFT design, marketing, and event management. We apply our creativity in various fields, including music, sports, and entertainment.</p>
           <div className='social-icons'>
             <a href="https://www.behance.net/909medialabs" target="_blank"><img src={iconBehance} className='social-icon'/></a>
             <a href="https://www.linkedin.com/company/909medialabs/" target="_blank"><img src={iconLinkedin} className='social-icon'/></a>
